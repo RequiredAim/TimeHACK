@@ -1,7 +1,5 @@
 <a href="https://ci.appveyor.com/project/timehack/timehack"><img src="https://ci.appveyor.com/api/projects/status/8x34p8b0i2idblgd?svg=true" style="border: 0;" alt="AppVeyor Badge"></a>
 
-[![Discord](https://discordapp.com/api/guilds/234414439330349056/widget.png?style=shield)](https://discord.gg/FZgQMDe)
-
 # TimeHACK
 ## The original hacking simulator!
 TimeHACK is a C# version of the PC game Histacom, released by 12padams in 2010. Here are some of our goals:
@@ -22,11 +20,4 @@ TimeHACK has a Discord at https://discord.gg/FZgQMDe (YOU CAN GO TO THE BADGE WH
 TimeHACK has an AppVeyor at https://ci.appveyor.com/project/timehack/timehack (YOU CAN GO TO THE OTHER BADGE)
 
 ## Documentation
-This section will be filled at a later date.
-
-## Other Repositories
-We have another version of TimeHACK, based on the Histacom 1.8.5 source. It can be found at http://www.github.com/TimeHACKDevs/HistacomVB
-
-## License
-TimeHACK is Licensed under the [MIT Software license](https://github.com/TimeHACKDevs/TimeHACK/blob/master/LICENSE). All code contributed to the TimeHACK project is the property of the TimeHACK development team, and will not be removed upon request.
-
+This section will be filled by a AI at a later date.
